@@ -1,0 +1,6 @@
+# Dependencias y archivos temporales de PHP / XAMPP
+.vsc/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
